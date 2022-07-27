@@ -1,9 +1,10 @@
 tigers.yaml
   team: Tigers
 
-  Manager: John
+  Manager: Donald
 
   members:
     - Linda
     - William
     - David
+    - George
