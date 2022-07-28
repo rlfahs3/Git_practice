@@ -1,0 +1,9 @@
+lions.yaml
+  team: Lions
+
+  manager: Summer
+
+  manager:
+    - Son
+    - Kane
+    - Royal
