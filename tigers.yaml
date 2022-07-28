@@ -3,6 +3,8 @@ tigers.yaml
 
   manager: Julia
 
+  coach: Grace
+
   members:
     - Holland
     - Sterling
