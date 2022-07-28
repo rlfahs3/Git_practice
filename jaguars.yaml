@@ -1,0 +1,9 @@
+jaguars.yaml
+  team: Jaguars
+
+  manager: Stanley
+
+  members:
+    - Caleb
+    - Harvey
+    - Myles
