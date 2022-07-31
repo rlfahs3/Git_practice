@@ -1,11 +1,13 @@
 tigers.yaml
   team: Tigers
 
-  manager: Kenneth
+  manager: Thanos
 
-  coach: Grace
+  coach: Roman
 
   members:
     - Holland
     - Sterling
     - Kepa
+    - Gamora
+    - Nebula

@@ -1,9 +1,9 @@
 leopards.yaml
   team: Leopards
 
-  manager: Dooli
+  manager: Peter
 
-  coach: Lupi
+  coach: Rocket
 
 
   members:
@@ -13,3 +13,5 @@ leopards.yaml
     - Olivia
     - Evie
     - Dongho
+    - Drax
+    - Groot
