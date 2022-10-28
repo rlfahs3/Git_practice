@@ -1,2 +1,2 @@
-id: admin
-pw: admin
+id: root
+pw: root
